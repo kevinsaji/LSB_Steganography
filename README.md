@@ -1,6 +1,6 @@
 # LSB_Steganography
 
-Python program to hide text in images but changing the least significant bit.
+Python program to hide text in images by changing the least significant bit.
 
 ## Idea
 
